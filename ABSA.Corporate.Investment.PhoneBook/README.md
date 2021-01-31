@@ -5,6 +5,7 @@
 
 
 --FrontEnd
+0.Please run 'npm install' on the integrated terminal and then after run 'npm start'
 1. The phonebook and the entry are managed separated hence the buttons on the accordion and its content.
 2.The capture of all input  will be just below the 'add phonebook' button.
 
