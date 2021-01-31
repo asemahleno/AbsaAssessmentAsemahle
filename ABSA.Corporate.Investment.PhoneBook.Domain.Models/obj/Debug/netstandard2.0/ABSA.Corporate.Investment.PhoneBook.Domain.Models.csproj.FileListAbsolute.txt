@@ -1,0 +1,9 @@
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Domain.Models\bin\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.deps.json
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Domain.Models\bin\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.dll
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Domain.Models\bin\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.pdb
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Domain.Models\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.csprojAssemblyReference.cache
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Domain.Models\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.AssemblyInfoInputs.cache
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Domain.Models\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.AssemblyInfo.cs
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Domain.Models\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.csproj.CoreCompileInputs.cache
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Domain.Models\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.dll
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Domain.Models\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.pdb

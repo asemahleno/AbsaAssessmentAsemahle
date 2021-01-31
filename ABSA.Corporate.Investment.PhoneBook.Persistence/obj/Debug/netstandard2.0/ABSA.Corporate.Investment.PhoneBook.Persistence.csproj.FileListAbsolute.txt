@@ -1,0 +1,12 @@
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\bin\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.deps.json
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\bin\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.dll
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\bin\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.pdb
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\bin\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.dll
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\bin\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Domain.Models.pdb
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.csprojAssemblyReference.cache
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.AssemblyInfoInputs.cache
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.AssemblyInfo.cs
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.csproj.CoreCompileInputs.cache
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.csproj.CopyComplete
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.dll
+C:\ABSA_Assesment_Asemahle_Nondula\ABSA.Corporate.Investment.PhoneBook.Persistence\obj\Debug\netstandard2.0\ABSA.Corporate.Investment.PhoneBook.Persistence.pdb

@@ -1,0 +1,59 @@
+<form>
+    <div class="centerText">
+    <h1>Basic Angular Phone Book</h1>
+    <h5>This application manages phonebooks, click on the phonebook to manage it and its entries.</h5>
+    <h1>PhoneBooks</h1>
+    <button (click)="onShowForm()">Add PhoneBook</button>
+    <div *ngIf="showForm || showEditForm" style="margin-top:1em;margin-bottom:1em">
+        <label>Name: </label>
+        <input type="text" [(ngModel)]="phoneBook.name" name="name" id="name">
+      <div  style="margin-left:1em;margin-top: 1em;">
+        <button style="margin-right:2px" (click)="onSavePhoneBook()">Save
+        </button>
+        <button style="margin-right:2px" (click)="onHideForm()">Cancel
+        </button>
+      </div>
+    </div>
+    <div *ngIf="showEntryInputs" style="margin-top:1em;margin-bottom:1em">
+      <label>Name: </label>
+      <input type="text" [(ngModel)]="entry.name" name="name" id="entryName">
+      <label> Number: </label>
+      <input type="text" [(ngModel)]="entry.phoneNumber" name="phoneNumber" id="entryNumber">
+    <div  style="margin-left:1em;margin-top: 1em;">
+      <button style="margin-right:2px" (click)="onSaveEntry()">Save
+      </button>
+      <button style="margin-right:2px" (click)="onHideOrEditInputs()">Cancel
+      </button>
+    </div>
+  </div>
+  </div>
+    <div class="tabs"  *ngFor="let phoneBook of phoneBooks" style="width:50%;height:50%;margin-left:25em;">
+      <div class="tab">
+        <input type="checkbox" id={{phoneBook.id}}>
+        <label class="tab-label" for={{phoneBook.id}}>{{ getTabLabel(phoneBook)}}
+          <button style="margin-left:15em" (click)="onDelete(phoneBook.id)">Delete</button>
+          <button (click)="onShowEditForm(phoneBook.name, phoneBook.id)">Edit</button>
+          <button  (click)="onShowAddOrEditInputs(entry,phoneBook.id)">Add Entry</button>
+        </label>
+        <div class="tab-content">
+          <div style="margin-top:1em;">
+            <label>Search: </label>
+            <input type="text" [(ngModel)]="searchTerm" name="searchTerm" id="searchTerm">
+          </div>
+          <div *ngFor="let entry of phoneBook.entries | filter:searchTerm">
+            <div class="card">
+              <div class="container">
+                <h4><b>{{"Name: "+ entry.name}}</b></h4>
+                <p>{{"Number: " + entry.phoneNumber}}</p>
+              </div>
+              <button style="margin-left:22em;margin-right:2em;margin-bottom:2em;" (click)="onDeleteEntry(entry.id)">Delete</button>
+              <button class="leftAlign" (click)="onShowAddOrEditInputs(entry)">Edit</button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </form>
+
+

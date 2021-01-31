@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABSA.Corporate.Investment.PhoneBook", "ABSA.Corporate.Investment.PhoneBook.csproj", "{29B22A6C-D555-4D04-890A-4F144F68D632}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{419B6804-99BE-440F-90A1-F5EFD46F8E06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{DDCC9AD1-7D23-4D09-B35F-B708BF4BAC91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{163D6354-9CF4-4916-B2C3-5B767F2AEB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABSA.Corporate.Investment.PhoneBook.Persistence", "..\ABSA.Corporate.Investment.PhoneBook.Persistence\ABSA.Corporate.Investment.PhoneBook.Persistence.csproj", "{99E5E222-6403-4D08-87CF-AB0DC3A12BD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABSA.Corporate.Investment.PhoneBook.Domain.Models", "..\ABSA.Corporate.Investment.PhoneBook.Domain.Models\ABSA.Corporate.Investment.PhoneBook.Domain.Models.csproj", "{07FE7B4A-F172-4C5C-8337-27FBBC1F1745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABSA.Corporate.Investment.PhoneBook.Persistence.Seed", "..\ABSA.Corporate.Investment.PhoneBook.Persistence.Seed\ABSA.Corporate.Investment.PhoneBook.Persistence.Seed.csproj", "{001AE476-E68E-4591-B4E3-6B7E1B959312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29B22A6C-D555-4D04-890A-4F144F68D632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B22A6C-D555-4D04-890A-4F144F68D632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B22A6C-D555-4D04-890A-4F144F68D632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B22A6C-D555-4D04-890A-4F144F68D632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E5E222-6403-4D08-87CF-AB0DC3A12BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E5E222-6403-4D08-87CF-AB0DC3A12BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E5E222-6403-4D08-87CF-AB0DC3A12BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E5E222-6403-4D08-87CF-AB0DC3A12BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FE7B4A-F172-4C5C-8337-27FBBC1F1745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FE7B4A-F172-4C5C-8337-27FBBC1F1745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FE7B4A-F172-4C5C-8337-27FBBC1F1745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FE7B4A-F172-4C5C-8337-27FBBC1F1745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001AE476-E68E-4591-B4E3-6B7E1B959312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001AE476-E68E-4591-B4E3-6B7E1B959312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001AE476-E68E-4591-B4E3-6B7E1B959312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001AE476-E68E-4591-B4E3-6B7E1B959312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{29B22A6C-D555-4D04-890A-4F144F68D632} = {419B6804-99BE-440F-90A1-F5EFD46F8E06}
+		{99E5E222-6403-4D08-87CF-AB0DC3A12BD2} = {163D6354-9CF4-4916-B2C3-5B767F2AEB57}
+		{07FE7B4A-F172-4C5C-8337-27FBBC1F1745} = {DDCC9AD1-7D23-4D09-B35F-B708BF4BAC91}
+		{001AE476-E68E-4591-B4E3-6B7E1B959312} = {163D6354-9CF4-4916-B2C3-5B767F2AEB57}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9BACD13-211D-4DD5-8CD7-911A8F9B35D2}
+	EndGlobalSection
+EndGlobal
