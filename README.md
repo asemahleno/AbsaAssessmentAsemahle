@@ -2,9 +2,9 @@
 Contains the ABSA Assessment
 
 00-Notes before before running the application
--The front end project is  under the 'ABSA.Corporate.Investment.PhoneBook.Frontend' folder and the backend under 'ABSA.Corporate.Investment.PhoneBook'.
+-The front end project is  under the 'ABSA.Corporate.Investment.PhoneBook.Frontend/AbsaPhoneBook' folder and the backend under 'ABSA.Corporate.Investment.PhoneBook'.
 -The backend uses dot net core 3.1
--Please  run the seed project to create your database.
+-Please  run the seed project under the persistent folder to create your sql database.
 -The databasename will be Phonebook
 
 
